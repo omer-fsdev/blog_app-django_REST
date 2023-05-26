@@ -64,7 +64,7 @@ To use the application, you can follow these steps:
 
 1. Register a new user account.
 2. Log in to your account using your credentials.
-3. After logging in, obtain an authentication token by making a `POST` request to the `/api/token/` endpoint with your username and password. The response will contain a token that you can use for subsequent requests.
+3. After logging in, obtain an authentication token by making a `POST` request to the `/auth/login/` endpoint with your username and password. The response will contain a token that you can use for subsequent requests.
 4. Include the obtained token in the `Authorization` header of your requests as follows:
 ```
 Authorization: Token <your_token>
