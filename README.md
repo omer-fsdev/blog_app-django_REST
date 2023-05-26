@@ -75,6 +75,9 @@ Authorization: Token <your_token>
 
 Note: Token authentication is required for protected endpoints, such as creating, updating, or deleting blog posts and comments.
 
+## API Documentation
+For detailed API documentation (Swagger), please refer to the `https://localhost:8000/api/docs/`.
+
 ## Other Pertinent Information
 Here are a few additional details you may find helpful:
 
