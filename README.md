@@ -24,7 +24,7 @@ python3 -m venv env
 4. Activate the virtual environment:
 - For Windows:
   ```
-  .env\Scripts\activate
+  .\env\Scripts\activate
   ```
 - For macOS and Linux:
   ```
